@@ -1,2 +1,4 @@
-# hello-world
-이 리포지토리는 GitHub 흐름 연습용입니다.
+# Hello world~ ^_*
+This is my first GitHub repository,
+
+My name is Jonghun Yu. I am a student of Economics & Finance at Hanyang University, seoul, Korea. 
